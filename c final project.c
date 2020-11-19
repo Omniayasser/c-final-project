@@ -61,8 +61,7 @@ void add_books()
 void viewbook()
 {
     void add_books()
-    int x;
-    for ( x =0; x< counter2; x++)
+    for ( int x =0; x< counter2; x++)
     {
          puts(info.book_name);
     }
