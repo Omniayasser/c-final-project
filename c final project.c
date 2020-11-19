@@ -1,3 +1,11 @@
+/******************************************************************************
+
+                            Online C Compiler.
+                Code, Compile, Run and Debug C program online.
+Write your code in this editor and press "Run" button to compile and execute it.
+
+*******************************************************************************/
+
 #include<stdio.h>
 
 void mainmenu();
@@ -59,7 +67,7 @@ void add_books()
 }
 void viewbook()
 {
-    void add_books();sss
+    void add_books()
     int x;
     for ( x =0; x< counter2; x++)
     {
